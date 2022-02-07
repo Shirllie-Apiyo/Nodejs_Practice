@@ -9,5 +9,6 @@ Learning node js
 - better sync of code btwn server and client due to same code base
 - easy for web devs
 
-MODULES
--
+node version:
+node -v
+npm install npm --global
